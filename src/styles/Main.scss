@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "OpenSans";
+  src: url("./fonts/OpenSans/OpenSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Comfortaa";
+  src: url("./fonts/Comfortaa/Comfortaa-Medium.ttf");
+}
+
+$off-black: #2c3e50;
+
+.off-black {
+  color: $off-black;
+}
+
+.heading {
+  font-family: Comfortaa;
+}
