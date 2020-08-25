@@ -1,5 +1,7 @@
 # resume
 
+This is my resume. I made it with Vue.js. Enjoy and have a wonderful day!
+
 ## Project setup
 ```
 npm install
