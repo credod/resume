@@ -1,0 +1,168 @@
+{
+  "basicInfoSections": [
+    {
+      "title": "Education",
+      "sectionItems": [
+        {
+          "itemTitle": "Brown University '22",
+          "date": null,
+          "subtitle": null,
+          "listType": "newlineList",
+          "listItems": [
+            "A.B. Computer Science",
+            "A.B. Music",
+            "3.78 GPA"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coursework",
+      "sectionItems": [
+        {
+          "itemTitle": null,
+          "date": null,
+          "subtitle": null,
+          "listType": "newlineList",
+          "listItems": [
+            "Data Structures & Algorithms",
+            "Intro to Software Engineering",
+            "Modern Web and Mobile Apps",
+            "UI/UX",
+            "Computer Systems",
+            "Discrete Structures & Probability",
+            "Linear Algebra",
+            "Real-Time Systems",
+            "Computers and Music"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "sectionItems": [
+        {
+          "itemTitle": null,
+          "date": null,
+          "subtitle": null,
+          "listType": "inlineList",
+          "listItems": [
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "JavaScript",
+            "React",
+            "React Native",
+            "Vue.js",
+            "Node.js",
+            "Java",
+            "SQL",
+            "Figma",
+            "Photoshop",
+            "Illustrator"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Extracurriculars",
+      "sectionItems": [
+        {
+          "itemTitle": null,
+          "date": null,
+          "subtitle": null,
+          "listType": "newlineList",
+          "listItems": [
+            "Mariachi de Brown",
+            "Mosaic+",
+            "Kids With Curls Collective",
+            "Safewalk"
+          ]
+        }
+      ]
+    }
+  ],
+  "mainContentSections": [
+    {
+      "title": "Experience",
+      "sectionItems": [
+        {
+          "itemTitle": "Frontend Developer at Intus Care",
+          "date": "June 2020 - present",
+          "subtitle": "Intus Care is a startup that delivers data-driven solutions to long-term care providers",
+          "listType": "bulletList",
+          "listItems": [
+            "Redesigned an interface which directly generated sales",
+            "Reorganized and refactored code to allow for greater scalability",
+            "Continuously carrying out requested and planned features based on user feedback"
+          ]
+        },
+        {
+          "itemTitle": "Frontend Developer at Gyst Audio",
+          "date": "May - Aug 2019",
+          "subtitle": "Gyst Audio is a startup at 1871 Chicago that provides dictation services to online publications",
+          "listType": "bulletList",
+          "listItems": [
+            "Conducted UX research on clients and their interactions with the product",
+            "Sketched, wireframed, prototyped, and carried out new interfaces",
+            "Automated scripting services for partners"
+          ]
+        },
+        {
+          "itemTitle": "Undergraduate Teaching Assistant",
+          "date": "Jan - May 2019",
+          "subtitle": "UTA for CS18: Intro to Object-Oriented Programming, Kathy Fisler",
+          "listType": "bulletList",
+          "listItems": [
+            "Held weekly Office Hours for about 170 students",
+            "Graded projects and assignments in Java and Scala",
+            "Restructured and rewrote project assignments to update with new content or instructions",
+            "Mentored 7 students"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Projects",
+      "sectionItems": [
+        {
+          "itemTitle": "Digital Hall of Fame (Vue.js)",
+          "date": "May 2020 - present",
+          "subtitle": null,
+          "listType": "bulletList",
+          "listItems": [
+            "Creating a digital hall of fame to be installed in schools on large touchscreen TVs"
+          ]
+        },
+        {
+          "itemTitle": "Pointz (React Native)",
+          "date": "Apr - July 2020",
+          "subtitle": null,
+          "listType": "bulletList",
+          "listItems": [
+            "Developed a mobile app that provides safe routing options for micro-mobility vehicles"
+          ]
+        },
+        {
+          "itemTitle": "Music Visualizer (Java, Javascript, HTML/CSS)",
+          "date": "Apr - May 2019",
+          "subtitle": null,
+          "listType": "bulletList",
+          "listItems": [
+            "Used the Spotify API to generate 4 different visualizers for any song on Spotify"
+          ]
+        },
+        {
+          "itemTitle": "Maps (Java, Javascript, HTML/CSS, SQL)",
+          "date": "Apr 2019",
+          "subtitle": null,
+          "listType": "bulletList",
+          "listItems": [
+            "Built a map of Rhode Island using the OpenStreetMap database",
+            "Implemented basic routing with Dijkstra's algorithm"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -2,18 +2,43 @@
   font-family: "OpenSans";
   src: url("./fonts/OpenSans/OpenSans-Regular.ttf");
 }
+@font-face {
+  font-family: "OpenSans-Bold";
+  src: url("./fonts/OpenSans/OpenSans-Bold.ttf");
+}
 
 @font-face {
   font-family: "Comfortaa";
   src: url("./fonts/Comfortaa/Comfortaa-Medium.ttf");
 }
-
-$off-black: #2c3e50;
-
-.off-black {
-  color: $off-black;
+@font-face {
+  font-family: "Comfortaa-Bold";
+  src: url("./fonts/Comfortaa/Comfortaa-Bold.ttf");
 }
 
-.heading {
-  font-family: Comfortaa;
+$off-black: #2c3e50;
+$theme-bg: rgb(89, 163, 223);
+$theme-text: rgb(46, 121, 198);
+
+html {
+  font-size: calc(0.6em + 0.5vw);
+}
+
+.page-text {
+  font-size: 0.62em;
+  color: $off-black;
+  font-family: OpenSans;
+}
+.name {
+  font-family: Comfortaa-Bold;
+  line-height: 100%;
+  font-size: 4em;
+}
+
+.bg-theme {
+  background-color: $theme-bg;
+}
+
+.text-theme {
+  color: $theme-text;
 }

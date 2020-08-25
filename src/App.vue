@@ -1,24 +1,29 @@
 <template>
-  <div id="app" class="off-black">
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+  <div id="app" class="page-text">
+    <Page />
   </div>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
+import Page from "./components/Layout/Page.vue";
 
 export default {
   name: "App",
   components: {
-    HelloWorld
-  }
+    Page,
+  },
 };
 </script>
 
 <style lang="scss">
 #app {
-  font-family: OpenSans, Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(82, 86, 89);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
 }
 </style>
