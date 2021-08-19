@@ -1,9 +1,18 @@
 <template>
   <b-container
-    class="p-0 m-0 overflow-hidden d-flex flex-column justify-content-center align-items-center bg-white"
+    class="
+      p-0
+      m-0
+      overflow-hidden
+      d-flex
+      flex-column
+      justify-content-center
+      align-items-center
+      bg-white
+    "
     :style="pageStyle"
   >
-    <b-row class="bg-theme m-0 w-100" :style="{height: '1.5rem'}" />
+    <b-row class="bg-theme m-0 w-100" :style="{ height: '1.5rem' }" />
     <b-row class="m-0 pt-4 px-5 pb-4 w-100 d-flex flex-grow-1">
       <b-col cols="4" class="m-0 p-0 pr-4 h-100 overflow-hidden">
         <BasicInfo />
@@ -33,7 +42,7 @@ const PAGE_HEIGHT = 11;
 
 import BasicInfo from "./BasicInfo";
 import Section from "../Section/Section";
-import resume from "../../resumes/fall2020.json";
+import resume from "../../resumes/fall2021.json";
 
 export default {
   name: "Page",
