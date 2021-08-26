@@ -93,7 +93,7 @@
           "listType": "bulletList",
           "listItems": [
             "Wrote and refactored code to improve the experience for millions of users",
-            "Participated sprint planning, code review, and pair-programming sessions with team members",
+            "Collaborated with team members on sprint planning, code review, and pair-programming sessions",
             "Conducted a company-wide presentation on UX improvements made during the summer"
           ]
         },
@@ -103,7 +103,7 @@
           "subtitle": "Intus Care is a startup that delivers data-driven solutions to long-term care providers",
           "listType": "bulletList",
           "listItems": [
-            "Redesigned an interface which directly generated sales",
+            "Redesigned an interface that directly generated sales",
             "Reorganized and refactored code to allow for greater scalability",
             "Created and carried out interviews for the Frontend Internship position"
           ]
